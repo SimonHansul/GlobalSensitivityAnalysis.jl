@@ -1,0 +1,3 @@
+[submodule "lib/GlobalSensitivityAnalysis.jl"]
+	path = lib/GlobalSensitivityAnalysis.jl
+	url = https://github.com/simonhansul/globalsensitivityanalysis.jl.git
